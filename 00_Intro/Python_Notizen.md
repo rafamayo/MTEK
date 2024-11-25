@@ -49,6 +49,21 @@ Die Ausgabe sollte `Python 3.9.x` sein.
 
 Jetzt können wir mit dieser Version weiter arbeiten. Zum Beispiel `jupyter notebooks` bzw. `jupyter Lab` installieren.
 
++ JupyterLab installieren
+	+ python -m pip install jupyterlab
+
+oder
+
++ Jupyter notebook installieren
+	+ python -m pip install jupyter
+
++ Start jupyter notebook
+	+ `jupyter-notebook` 
+
+oder 
+
++ Start JupyterLab
+	+ `jupyter-lab`
 
 venv deaktivieren wenn wir fertig sind.
 
